@@ -1,0 +1,23 @@
+name: jeffcarter
+favicon: null
+layout_spectrum: 0.9770774678327143
+typography_spectrum: 0.8552095552440733
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.13554625399410725
+  lightness: 0.6124956710264087
+  saturation: 0.5969539498910308
+  rhythmicContrast: 0.3296459431294352
+purpose: []
